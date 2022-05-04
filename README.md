@@ -1,1 +1,1 @@
-# EDA-on-sales-data-of-a-insurance-company
+# EDA-on-sales-data-of-an-insurance-company
